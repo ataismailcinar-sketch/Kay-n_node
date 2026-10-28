@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KayinBackend.Application/KayinBackend.Application.csproj" />
+    <Project Path="src/KayinBackend.Domain/KayinBackend.Domain.csproj" />
+    <Project Path="src/KayinBackend.Infrastructure/KayinBackend.Infrastructure.csproj" />
+    <Project Path="src/KayinBackend.WebApi/KayinBackend.WebApi.csproj" />
+  </Folder>
+</Solution>

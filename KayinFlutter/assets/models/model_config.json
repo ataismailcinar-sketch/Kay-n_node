@@ -1,0 +1,5 @@
+{
+  "ad": "Kayin_Tarla_MobileNetV3_35sinif_v1",
+  "normalizasyon": "0_255",
+  "not": "Girdi: 224x224 RGB float32, 0-255 (ImageNet normalizasyonu ve softmax modelin içinde). Etiket sırası labels.txt ile aynı olmalı. Eğitim: tool/model_egitimi."
+}

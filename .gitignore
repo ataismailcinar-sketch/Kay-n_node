@@ -1,0 +1,39 @@
+# --- Kişisel / yerel dosyalar ---
+*.lnk
+.vscode/
+.vs/
+.idea/
+*.local.txt
+*.local.json
+_kaldirilan/
+
+# --- .NET ---
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+TestResults/
+
+# Sunucu verisi: veritabanı, yedekler, kullanıcı fotoğrafları
+*.db
+*.db-shm
+*.db-wal
+App_Data/
+
+# --- Flutter / Dart (ayrıntısı KayinFlutter/.gitignore içinde) ---
+KayinFlutter/flutter_*.log
+KayinFlutter/android/.kotlin/
+KayinFlutter/android/local.properties
+KayinFlutter/android/key.properties
+**/*.keystore
+**/*.jks
+
+# --- Python (model eğitimi) ---
+__pycache__/
+*.pyc
+.venv/
+
+# --- İşletim sistemi ---
+Thumbs.db
+Desktop.ini
+.DS_Store
